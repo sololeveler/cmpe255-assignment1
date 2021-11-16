@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+gitUpload
+
+=======
+>>>>>>> cb1fefed2da4b930f75b8cf8673ad4091fe6c7de
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -127,6 +132,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+<<<<<<< HEAD
 
-archive/*.csv
-archive/*.json
+=======
+>>>>>>> cb1fefed2da4b930f75b8cf8673ad4091fe6c7de
